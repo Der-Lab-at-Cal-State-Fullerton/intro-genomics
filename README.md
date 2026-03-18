@@ -5,8 +5,8 @@ This lesson is primarily developed for the CSUF EAGER program and is very much a
 [Setup instructions](00-setup.md)
 
 The lesson has five parts:  
-[Part 1 - background](01-background.md)  
-[Part 2 - quality control](02-quality-control.md)   
-[Part 3 - trimming](03-trimming.md)  
-[Part 4 - variant calling](04-variant_calling.md)  
-[Part 5 - automation](05-automation.md)  
+[Part 1 - background](docs/01-background.md)  
+[Part 2 - quality control](docs/02-quality-control.md)   
+[Part 3 - trimming](docs/03-trimming.md)  
+[Part 4 - variant calling](docs/04-variant_calling.md)  
+[Part 5 - automation](docs/05-automation.md)  
